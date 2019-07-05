@@ -1,0 +1,51 @@
+.icon{
+  size: 2px;
+  margin: 2px;
+  height: 10%;
+  width: 40%;
+
+}
+.middle{
+  display: flex;
+  justify-content: center;
+}
+.body{
+  margin: 20px;
+}
+
+.form{
+
+  display: flex;
+  border-color: grey;
+  justify-content: center;
+ width:60%; 
+ height:40px; 
+ border-radius:45px;
+ margin: 20px;
+ padding-right: 65%  45px 0px  80px;
+}
+.ju{
+  justify-content: center;
+  padding: 190px 0px 90px 298px;
+}
+.lo{
+  width: 98%;
+  height: 30%;
+  position: absolute;
+  bottom: 0%;
+  
+  
+}
+.yu{
+  height: 30px;
+  width: 35px;
+  background-size: 6000px;
+  border-radius: 5000%;
+  background-color: #ff3a21;
+  margin: 0px 0px 0px 960px;
+  text-align: center;
+color: white;
+  
+font-size: 18px;
+font-style: normal;
+}
